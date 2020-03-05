@@ -9,7 +9,7 @@ public class Account {
 	
 	private int id = 0;
 	private double balance = 0;
-	private double annualInterestRate = 4.5;
+	private double annualInterestRate = 0;
 	private java.util.Date dateCreated;
 
 	double monthlyInterestRate = annualInterestRate / 1200;

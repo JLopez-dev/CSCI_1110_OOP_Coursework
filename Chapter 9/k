@@ -1,0 +1,108 @@
+package MyInteger;
+
+public class MyInteger {
+	
+	int value;
+	
+	MyInteger(int newValue){
+		value = newValue;
+	}
+	
+	double getValue() {
+		return value;
+	}
+
+	boolean isEven() {
+		return true;
+	}
+	
+	boolean isOdd() {
+		
+	}
+	
+	boolean isPrime() {
+		if(value == isEven) {
+		}
+		else if(value == isOdd) {
+		}
+		else if(value == isPrime) {
+		}
+		return true;
+	}
+	
+	public static boolean isEven(int value) {
+		if(value == isEven) {
+		}
+		else if(value == isOdd) {
+		}
+		else if(value == isPrime) {
+		}
+		return true;
+	}
+	
+	public static boolean isOdd(int value) {
+		if(value == isEven) {
+		}
+		else if(value == isOdd) {
+		}
+		else if(value == isPrime) {
+		}
+		return true;
+	}
+	
+	public static boolean isPrime(int value) {
+		if(value == isEven) {
+		}
+		else if(value == isOdd) {
+		}
+		else if(value == isPrime) {
+		}
+		return true;
+	}
+	
+	public static boolean isEven(MyInteger) {
+		if(value == isEven) {
+		}
+		else if(value == isOdd) {
+		}
+		else if(value == isPrime) {
+		}
+		return true;
+	}
+	
+	public static boolean isOdd(MyInteger) {
+		if(value == isEven) {
+		}
+		else if(value == isOdd) {
+		}
+		else if(value == isPrime) {
+		}
+		return true;
+	}
+	
+	public static boolean isPrime1(MyInteger) {
+		if(value == isEven) {
+		}
+		else if(value == isOdd) {
+		}
+		else if(value == isPrime) {
+		}
+		return true;
+	}
+	
+	public void equals(int value) {
+		
+	}
+	
+	public void equals(MyInteger) {
+		
+	}
+	
+	public static void parseInt(char[]) {
+		
+	}
+	
+	public static void parseInt(String) {
+		
+	}
+}

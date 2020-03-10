@@ -11,7 +11,6 @@ public class Account {
 	private double balance = 0;
 	private double annualInterestRate = 0;
 	private java.util.Date dateCreated;
-
 	double monthlyInterestRate = annualInterestRate / 12;
 	
 	Account(){

@@ -44,6 +44,10 @@ public class Account {
 		return balance / 100;
 	}
 	
+	public void setAnnualInterestRate(double annualInterestRate) {
+		this.annualInterestRate = annualInterestRate;
+	}
+	
 	public java.util.Date getDateCreated() {
 		return dateCreated;
 	}

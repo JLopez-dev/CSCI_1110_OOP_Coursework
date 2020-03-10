@@ -58,7 +58,7 @@ public class Account {
 	}
 	
 	double getMonthlyInterest() {
-		return balance * monthlyInterestRate;
+		return balance * (annualInterestRate / 12) / 100;
 	}
 	
 	double withdraw(double amount) {

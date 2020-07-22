@@ -31,12 +31,12 @@ public class Triangle extends GeometricObject implements Colorable{
 	
 	@Override
 	public double getArea() {
-		return getArea();
+		return Math.pow(side, 2);
 	}
 	
 	@Override
 	public double getPerimeter() {
-		return getPerimeter();
+		return side * 4;
 	}
 	
 	@Override

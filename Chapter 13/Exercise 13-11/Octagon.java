@@ -9,6 +9,7 @@ public class Octagon extends GeometricObject implements Cloneable, Comparable<Oc
 	private double side;
 
 	public Octagon() {
+		this.side = 1;
 	}
 
 	

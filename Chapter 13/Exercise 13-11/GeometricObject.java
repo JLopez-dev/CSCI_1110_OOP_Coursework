@@ -8,6 +8,9 @@ public abstract class GeometricObject{
 	private String color = " ";
 	private boolean filled;
 
+	protected GeometricObject() {
+		
+	}
 	protected GeometricObject(String color, boolean filled) {
 		this.color = color;
 		this.filled = filled;

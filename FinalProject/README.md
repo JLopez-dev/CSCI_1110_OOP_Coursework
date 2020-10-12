@@ -10,7 +10,7 @@ I build this program to test my knowledge about the content of my module.
 Run the program, the program will show a image of a flag with 3 options, once you select the answer you're going to click the "Submit" option in order to 
 to know if your answer were good or bad, if its good the program will go to the next question and will give you points, but if its bad the program will let 
 you know that you answer was bad and you will lose points.
-[Image Caption](sample.png)
+![image](sample.png)
 
 ## Code Example
 Example of my code: 

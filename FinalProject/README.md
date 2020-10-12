@@ -1,4 +1,4 @@
-# Project Title
+# Guess the Flags.
 
 ## Synopsis
 This is a program about Guessing the flags of Countries.
